@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("Hello");
 		
 		// adding a comment 
+		// adding comment number 2
 		
 	}
 
