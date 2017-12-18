@@ -18,6 +18,7 @@ public class Hello {
 
 		// adding a line in Noelbro to create merge conflict
 		// adding a line in master
+		// working on master again
 	}
 
 }
