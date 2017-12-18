@@ -17,7 +17,7 @@ public class Hello {
 		System.out.println("hey again");
 
 		// adding a line in Noelbro to create merge conflict
-
+		// adding a line in master
 	}
 
 }
