@@ -19,10 +19,14 @@ public class Hello {
 		// adding a line in Noelbro to create merge conflict
 		// adding a line in master
 <<<<<<< HEAD
+<<<<<<< HEAD
 		// this will cause a merge conflict
 =======
 		// working on master again
 >>>>>>> 3f2f078...  a message
+=======
+		// this will cause a merge conflict
+>>>>>>> 1a5c57c... commit which will cause a conflict
 	}
 
 }
