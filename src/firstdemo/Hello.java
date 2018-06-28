@@ -19,16 +19,15 @@ public class Hello {
 		// adding a line in Noelbro to create merge conflict
 		// adding a line in master
 
-
 		// this will cause a merge conflict
-
+		// working on master again
+		// this will cause a merge conflict
 		// working on master again
 
 
 
-		// this will cause a merge conflict
+		
 
-		// working on master again
 
 	}
 
