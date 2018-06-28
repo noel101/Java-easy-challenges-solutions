@@ -1,7 +1,7 @@
 package firstdemo;
 
 public class TwoMaxNumbers {
-	 
+	//three max numbers 
     public void printTwoMaxNumbers(int[] nums){
         int maxOne = 0;
         int maxTwo = 0;
