@@ -11,7 +11,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 import com.sun.javafx.collections.MappingChange.Map;
 
-public class YahooSolution {
+public class Yahoo2Solution {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
